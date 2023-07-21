@@ -1,0 +1,31 @@
+.card-title{
+   color: #fc7300;
+   position: absolute;
+   top: 40%;
+   left: 20%;
+}
+.card-img{
+    position: relative;
+    opacity: 70%;
+}
+body{font-family:'Poppins', sans-serif;
+    color: #181823;
+    background-color: #eff5f5;
+}
+nav{
+    background-color: #00425a;
+}
+.nav a{
+    color: #eff5f5;
+}
+footer{
+    background-color: #1f8a70;
+    color: #eff5f5;
+    text-decoration: none;
+}
+h1, h2, h3, h4{
+    color: #181823;
+}
+.button{
+    color: #00425a ;
+}
